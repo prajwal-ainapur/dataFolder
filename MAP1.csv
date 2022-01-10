@@ -1,10 +1,7 @@
 code,state,category,total exports
-FL,Florida,state,3764.09
-NJ,New Jersey,state,500.40
-NY,New York,state,1488.90
-NC,North Carolina,state,3806.05
-OH,Ohio,state,3979.79
-OK,Oklahoma,state,1646.41
-PA,Pennsylvania,state,1969.87
-TX,Texas,state,6648.22
-UT,Utah,state,453.39
+FL,Florida,state,67
+NY,New York,state,25
+NC,North Carolina,state,35
+OH,Ohio,state,18
+TX,Texas,state,42
+UT,Utah,state,27
